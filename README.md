@@ -1,3 +1,5 @@
+<img src="background.webp" alt="Profile banner" width="100%">
+
 ## Hi there 👋
 
 <!--
